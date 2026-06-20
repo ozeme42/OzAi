@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061670723130",
+    "project_id": "ozai-30a6e",
+    "storage_bucket": "ozai-30a6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061670723130:android:f9ce80c1c4f48965dedf03",
+        "android_client_info": {
+          "package_name": "com.OzAi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8cfggBSJqVnJTxm6s_GR9XJUf0_KE6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
